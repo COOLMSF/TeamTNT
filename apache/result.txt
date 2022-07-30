@@ -1,0 +1,1 @@
+strace: Can't stat './w.2.tar.gz': No such file or directory

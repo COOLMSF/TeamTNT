@@ -1,0 +1,35 @@
+ * ABOUT        XMRig/6.10.0 gcc/9.3.0
+ * LIBS         libuv/1.41.0 OpenSSL/1.1.1j hwloc/2.4.1
+ * HUGE PAGES   supported
+ * 1GB PAGES    disabled
+ * CPU          Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz (1) 64-bit AES VM
+                L2:8.0 MB L3:35.8 MB 2C/2T NUMA:1
+ * MEMORY       3.7/3.8 GB (97%)
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      194.147.115.91:45432 algo auto
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+[2022-07-29 21:08:20.595]  config   configuration saved to: "./.ddns.pid"
+[2022-07-29 21:08:40.606]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-29 21:09:05.626]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-29 21:09:30.643]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-29 21:09:55.661]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-29 21:10:20.680]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-30 07:34:24.619]  signal   SIGTERM received, exiting
+ * ABOUT        XMRig/6.10.0 gcc/9.3.0
+ * LIBS         libuv/1.41.0 OpenSSL/1.1.1j hwloc/2.4.1
+ * HUGE PAGES   supported
+ * 1GB PAGES    disabled
+ * CPU          Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz (1) 64-bit AES VM
+                L2:8.0 MB L3:35.8 MB 2C/2T NUMA:1
+ * MEMORY       1.5/3.8 GB (39%)
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      194.147.115.91:45432 algo auto
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+[2022-07-30 11:30:20.755]  config   configuration saved to: "./.ddns.pid"
+[2022-07-30 11:30:40.757]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-30 11:31:05.780]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-30 11:31:30.802]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-30 11:31:55.822]  net      194.147.115.91:45432 connect error: "operation canceled"
+[2022-07-30 11:32:20.844]  net      194.147.115.91:45432 connect error: "operation canceled"
